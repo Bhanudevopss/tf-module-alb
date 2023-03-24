@@ -6,6 +6,5 @@ variable "load_balancer_type" {}
 variable "enable_deletion_protection" {
   default = false
 }
-variable "" {}
 variable "subnets" {}
 
